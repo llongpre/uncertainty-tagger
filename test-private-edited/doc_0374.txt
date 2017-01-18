@@ -1,0 +1,18 @@
+'	``	B
+Loiret	NN	O
+'	''	B
+is	VBZ	I
+a	DT	B
+department	NN	O
+in	IN	O
+north	JJ	O
+-	HYPH	B
+central	JJ	O
+France	NNP	O
+named	VBN	O
+after	IN	O
+the	DT	B
+river	NN	O
+Loiret	NNP	O
+.	.	O
+

@@ -1,0 +1,22 @@
+The	DT	O
+final	JJ	O
+results	NNS	O
+amongst	IN	O
+these	DT	O
+supply	NN	O
+and	CC	O
+demand	NN	O
+interactions	NNS	O
+is	VBZ	O
+a	DT	O
+gradation	NN	O
+of	IN	O
+different	JJ	O
+wages	NNS	O
+representing	VBG	O
+income	NN	O
+inequality	NN	O
+within	IN	O
+society	NN	O
+.	.	O
+

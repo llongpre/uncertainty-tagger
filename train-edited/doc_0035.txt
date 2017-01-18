@@ -1,0 +1,31 @@
+Initially	RB	O
+,	,	O
+accurate	JJ	O
+transcription	NN	O
+rates	NNS	O
+of	IN	O
+85	CD	O
+-	SYM	O
+90	CD	O
+%	NN	O
+are	VBP	B
+to	TO	I
+be	VB	I
+reasonably	RB	I
+expected	VBN	I
+.	.	O
+
+An	DT	O
+expert	NN	O
+NaturallySpeaking	VBG	O
+user	NN	O
+can	MD	O
+expect	VB	O
+98	CD	O
+-	SYM	O
+99	CD	O
+%	NN	O
+recognition	NN	O
+accuracy	NN	O
+.	.	O
+

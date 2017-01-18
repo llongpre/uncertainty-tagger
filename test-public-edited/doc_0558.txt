@@ -1,0 +1,17 @@
+Following	VBG	O
+Hutchison	NNP	O
+'s	POS	B
+election	NN	O
+in	IN	O
+1993	CD	O
+,	,	B
+Texas	NNP	O
+has	VBZ	B
+had	VBN	I
+two	CD	O
+sitting	VBG	O
+Republican	JJ	O
+U.S.	NNP	O
+senators	NNS	O
+.	.	O
+

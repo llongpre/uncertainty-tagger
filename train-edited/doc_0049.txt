@@ -1,0 +1,56 @@
+Phawngpui	NNP	O
+Peak	NNP	O
+in	IN	O
+Mizoram	NNP	O
+exhibits	VBZ	O
+the	DT	B
+most	RBS	I
+enchanting	JJ	I
+view	NN	O
+of	IN	O
+Mizoram	NNP	O
+.	.	O
+
+This	DT	O
+cliff	NN	O
+is	VBZ	B
+believed	VBN	I
+to	TO	O
+be	VB	O
+haunted	VBN	O
+by	IN	O
+spirits	NNS	O
+.	.	O
+
+The	DT	O
+area	NN	O
+is	VBZ	O
+encircled	VBN	O
+by	IN	O
+matted	JJ	O
+bamboo	NN	O
+groves	NNS	O
+and	CC	O
+other	JJ	O
+alluring	JJ	O
+vegetations	NNS	O
+.	.	O
+
+You	PRP	O
+will	MD	O
+come	VB	O
+across	IN	O
+varieties	NNS	O
+of	IN	O
+butterflies	NNS	O
+,	,	O
+including	VBG	O
+some	DT	O
+rare	JJ	O
+species	NNS	O
+found	VBN	O
+in	IN	O
+this	DT	O
+region	NN	O
+.	.	O
+

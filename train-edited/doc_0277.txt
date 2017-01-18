@@ -1,0 +1,23 @@
+In	IN	O
+1971	CD	O
+,	,	O
+the	DT	O
+Museum	NNP	O
+of	IN	O
+Modern	NNP	O
+Art	NNP	O
+staged	VBD	O
+a	DT	O
+further	JJ	O
+exhibition	NN	O
+of	IN	O
+his	PRP$	O
+work	NN	O
+entitled	VBN	O
+simply	RB	O
+'	``	O
+Walker	NNP	O
+Evans	NNP	O
+'	''	O
+.	.	O
+

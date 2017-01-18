@@ -1,0 +1,21 @@
+The	DT	O
+liberation	NN	O
+of	IN	O
+the	DT	O
+Philippines	NNPS	O
+from	IN	O
+Japanese	JJ	O
+rule	NN	O
+on	IN	O
+1946	CD	O
+resulted	VBD	O
+in	IN	O
+the	DT	O
+division	NN	O
+of	IN	O
+Valenzuela	NNP	O
+into	IN	O
+two	CD	O
+towns	NNS	O
+.	.	O
+

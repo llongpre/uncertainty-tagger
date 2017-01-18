@@ -1,0 +1,57 @@
+The	DT	O
+diagnosis	NN	O
+of	IN	O
+portal	JJ	O
+hypertensive	JJ	O
+gastropathy	NN	O
+is	VBZ	O
+usually	RB	O
+made	VBN	O
+on	IN	O
+endoscopy	NN	O
+.	.	O
+
+Red	JJ	O
+spots	NNS	O
+may	MD	B
+or	CC	O
+may	MD	B
+not	RB	O
+be	VB	O
+present	JJ	O
+.	.	O
+
+The	DT	O
+pattern	NN	O
+is	VBZ	O
+usually	RB	O
+seen	VBN	O
+throughout	IN	O
+the	DT	O
+stomach	NN	O
+.	.	O
+
+However	RB	O
+,	,	O
+in	IN	O
+GAVE	NNP	O
+,	,	O
+the	DT	O
+ectatic	JJ	O
+blood	NN	O
+vessels	NNS	O
+are	VBP	O
+more	RBR	O
+commonly	RB	O
+found	VBN	O
+in	IN	O
+the	DT	O
+antrum	NN	O
+or	CC	O
+lower	JJR	O
+part	NN	O
+of	IN	O
+the	DT	O
+stomach	NN	O
+.	.	O
+

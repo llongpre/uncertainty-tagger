@@ -1,0 +1,14 @@
+Representative	NNP	O
+James	NNP	O
+S.	NNP	O
+Sherman	NNP	O
+of	IN	O
+New	NNP	O
+York	NNP	O
+received	VBD	O
+the	DT	O
+vice	NN	O
+presidential	JJ	O
+nomination	NN	O
+.	.	O
+

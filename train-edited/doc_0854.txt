@@ -1,0 +1,12 @@
+Shabazz	NNP	O
+was	VBD	O
+a	DT	O
+member	NN	O
+of	IN	O
+Delta	NNP	O
+Sigma	NNP	O
+Theta	NNP	O
+Sorority	NNP	O
+,	,	O
+Inc.	NNP	O
+

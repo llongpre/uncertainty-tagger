@@ -1,0 +1,27 @@
+The	DT	O
+Genpei	NNP	O
+War	NNP	O
+is	VBZ	O
+also	RB	O
+the	DT	O
+subject	NN	O
+of	IN	O
+the	DT	O
+early	JJ	O
+Japanese	JJ	O
+epic	NN	O
+'	''	O
+The	DT	O
+Tale	NNP	O
+of	IN	O
+the	DT	O
+Heike	NNP	O
+'	``	O
+(	-LRB-	O
+'	''	O
+Heike	NNP	O
+Monogatari	NNP	O
+'	''	O
+)	-RRB-	O
+.	.	O
+

@@ -1,0 +1,25 @@
+However	RB	O
+,	,	O
+there	EX	O
+is	VBZ	O
+some	DT	B
+speculation	NN	I
+among	IN	O
+fans	NNS	O
+that	IN	O
+she	PRP	O
+had	VBD	O
+faked	VBN	O
+her	PRP$	O
+death	NN	O
+in	IN	O
+order	NN	O
+to	TO	O
+get	VB	O
+out	IN	O
+of	IN	O
+the	DT	O
+industry	NN	O
+completely	RB	O
+.	.	O
+

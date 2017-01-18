@@ -1,0 +1,40 @@
+'	``	O
+Artemia	NN	O
+'	''	O
+were	VBD	O
+first	RB	O
+discovered	VBN	O
+in	IN	O
+Lymington	NNP	O
+,	,	O
+England	NNP	O
+,	,	O
+in	IN	O
+1755	CD	O
+.	.	O
+
+The	DT	O
+name	NN	O
+'	``	O
+Artemia	NNP	O
+salina	NN	O
+'	''	O
+should	MD	B
+not	RB	O
+be	VB	O
+used	VBN	O
+anymore	RB	O
+.	.	O
+
+Instead	RB	O
+Artemia	NNP	O
+species	NNS	O
+should	MD	B
+be	VB	O
+used	VBN	O
+species	NNS	O
+"	''	O
+Compound	NNP	O
+eye	NN	O
+"	''	O
+

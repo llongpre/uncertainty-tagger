@@ -1,0 +1,21 @@
+In	IN	O
+the	DT	B
+IPA	NNP	O
+'s	POS	B
+,	,	I
+the	DT	B
+cardinal	JJ	O
+vowels	NNS	O
+have	VBP	B
+the	DT	I
+same	JJ	O
+numbers	NNS	O
+used	VBN	O
+above	RB	O
+,	,	B
+but	CC	O
+added	VBD	O
+to	IN	B
+300	CD	O
+.	.	O
+

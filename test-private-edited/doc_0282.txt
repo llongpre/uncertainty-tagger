@@ -1,0 +1,36 @@
+After	IN	O
+her	PRP$	O
+retirement	NN	O
+from	IN	O
+wrestling	VBG	O
+in	IN	O
+2006	CD	O
+,	,	B
+she	PRP	O
+and	CC	B
+then	RB	O
+-	HYPH	B
+boyfriend	NN	O
+Shane	NNP	O
+Morton	NNP	O
+formed	VBD	O
+the	DT	B
+punk	NN	O
+rock	NN	O
+band	NN	O
+The	DT	B
+Luchagors	NNPS	O
+.	.	O
+
+The	DT	B
+band	NN	O
+released	VBD	O
+a	DT	B
+CD	NNP	O
+on	IN	O
+September	NNP	O
+11	CD	O
+,	,	B
+2007	CD	O
+.	.	O
+

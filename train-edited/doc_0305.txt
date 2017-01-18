@@ -1,0 +1,26 @@
+In	IN	O
+the	DT	O
+Orthodox	NNP	O
+Church	NNP	O
+,	,	O
+Mary	NNP	O
+Magdalene	NNP	O
+is	VBZ	O
+not	RB	O
+celebrated	VBN	O
+as	IN	O
+a	DT	O
+penitent	NN	O
+,	,	O
+but	CC	O
+rather	RB	O
+as	IN	O
+a	DT	O
+woman	NN	O
+who	WP	O
+lived	VBD	O
+a	DT	O
+virtuous	JJ	O
+life	NN	O
+.	.	O
+

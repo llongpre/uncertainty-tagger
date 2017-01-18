@@ -1,0 +1,17 @@
+The	DT	B
+NSW	NNP	O
+business	NN	O
+community	NN	O
+is	VBZ	B
+represented	VBN	O
+by	IN	O
+the	DT	B
+NSW	NNP	O
+Business	NNP	O
+Chamber	NNP	O
+which	WDT	B
+has	VBZ	I
+30,000	CD	O
+members	NNS	B
+.	.	O
+

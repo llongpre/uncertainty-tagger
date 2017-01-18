@@ -1,0 +1,33 @@
+At	IN	O
+dawn	NN	O
+,	,	O
+the	DT	O
+Romans	NNPS	O
+started	VBD	O
+to	TO	O
+cross	VB	O
+the	DT	O
+river	NN	O
+Siris	NNP	O
+.	.	O
+
+The	DT	O
+Roman	JJ	O
+cavalry	NN	O
+attacked	VBD	O
+on	IN	O
+the	DT	O
+flanks	NNS	O
+the	DT	O
+scouts	NNS	O
+and	CC	O
+light	JJ	O
+infantry	NN	O
+,	,	O
+who	WP	O
+were	VBD	O
+forced	VBN	O
+to	TO	O
+flee	VB	O
+.	.	O
+

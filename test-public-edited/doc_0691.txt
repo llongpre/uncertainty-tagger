@@ -1,0 +1,43 @@
+It	PRP	B
+is	VBZ	I
+among	IN	O
+his	PRP$	B
+greatest	JJS	O
+and	CC	B
+most	RBS	I
+popular	JJ	B
+song	NN	O
+.	.	O
+
+The	DT	B
+song	NN	O
+was	VBD	B
+praised	VBN	O
+by	IN	O
+critics	NNS	B
+on	IN	O
+release	NN	O
+.	.	O
+
+It	PRP	B
+also	RB	I
+among	IN	O
+his	PRP$	B
+best	JJS	I
+chart	NN	O
+performing	VBG	O
+song	NN	O
+.	.	O
+
+It	PRP	B
+is	VBZ	I
+known	VBN	B
+as	IN	O
+among	IN	O
+the	DT	B
+greatest	JJS	O
+power	NN	O
+ballad	NN	O
+ever	RB	O
+.	.	O
+

@@ -1,0 +1,13 @@
+Button	NNP	O
+Bay	NNP	O
+State	NNP	O
+Park	NNP	O
+has	VBZ	B
+been	VBN	I
+a	DT	B
+state	NN	O
+park	NN	O
+since	IN	O
+1964	CD	O
+.	.	O
+

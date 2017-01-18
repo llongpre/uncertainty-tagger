@@ -1,0 +1,20 @@
+Adams	NNP	O
+was	VBD	O
+born	VBN	O
+in	IN	O
+Dunkirk	NNP	O
+,	,	O
+New	NNP	O
+York	NNP	O
+.	.	O
+
+In	IN	O
+1891	CD	O
+,	,	O
+he	PRP	O
+graduated	VBD	O
+from	IN	O
+Hamilton	NNP	O
+College	NNP	O
+.	.	O
+

@@ -1,0 +1,27 @@
+Arriva	NNP	O
+,	,	B
+the	DT	I
+city	NN	O
+bus	NN	O
+company	NN	O
+of	IN	B
+Dordrecht	NNP	O
+,	,	B
+also	RB	I
+serving	VBG	O
+Werkendam	NNP	O
+,	,	B
+and	CC	I
+also	RB	B
+operating	VBG	O
+the	DT	B
+Kop	NNP	O
+van	NN	O
+'	''	B
+t	XX	O
+Land	NNP	O
+ferry	NN	O
+on	IN	O
+the	DT	B
+way	NN	O
+

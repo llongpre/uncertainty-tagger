@@ -1,0 +1,42 @@
+The	DT	O
+motivations	NNS	O
+of	IN	O
+slave	NN	O
+owners	NNS	O
+in	IN	O
+manumitting	VBG	O
+slaves	NNS	O
+were	VBD	O
+complex	JJ	O
+.	.	O
+
+Three	CD	O
+strands	NNS	O
+may	MD	B
+be	VB	O
+detected	VBN	O
+,	,	O
+though	IN	O
+they	PRP	O
+can	MD	O
+not	RB	O
+always	RB	O
+be	VB	O
+disentangled	VBN	O
+from	IN	O
+each	DT	O
+other	JJ	O
+.	.	O
+
+The	DT	O
+following	VBG	O
+relates	VBZ	O
+particularly	RB	O
+to	IN	O
+classical	JJ	O
+Greek	NNP	O
+and	CC	O
+Roman	JJ	O
+forms	NNS	O
+.	.	O
+

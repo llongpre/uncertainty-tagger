@@ -1,0 +1,16 @@
+'	``	B
+Acceptable	JJ	O
+Use	NN	O
+Policy':The	RBR	O
+acceptable	JJ	O
+use	NN	O
+policy	NN	O
+has	VBZ	B
+been	VBN	I
+criticized	VBN	O
+for	IN	O
+containing	VBG	O
+this	DT	B
+passage	NN	O
+:	:	O
+

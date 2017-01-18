@@ -1,0 +1,24 @@
+The	DT	B
+town	NN	O
+stands	VBZ	O
+on	IN	O
+the	DT	B
+west	NN	O
+flank	NN	O
+of	IN	B
+the	DT	I
+Argonne	NNP	O
+massif	NN	O
+,	,	B
+mid	JJ	O
+-	HYPH	B
+way	NN	O
+between	IN	O
+Verdun	NNP	O
+and	CC	B
+Paris	NNP	O
+,	,	B
+near	IN	O
+Vouziers	NNS	O
+.	.	O
+

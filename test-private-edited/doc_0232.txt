@@ -1,0 +1,26 @@
+This	DT	O
+was	VBD	B
+the	DT	I
+first	JJ	O
+earthquake	NN	O
+to	TO	B
+have	VB	I
+a	DT	B
+certified	VBN	O
+seismic	JJ	O
+intensity	NN	O
+over	IN	O
+7	CD	O
+on	IN	O
+the	DT	B
+Japan	NNP	O
+Meteorological	NNP	O
+Agency	NNP	O
+'s	POS	B
+'	``	I
+shindo	NN	O
+'	''	B
+intensity	NN	O
+scale	NN	O
+.	.	O
+

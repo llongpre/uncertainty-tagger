@@ -1,0 +1,29 @@
+Other	JJ	B
+suggested	VBD	I
+lifestyle	NN	O
+changes	NNS	O
+include	VBP	O
+:	:	O
+Using	VBG	O
+supplements	NNS	O
+such	JJ	O
+as	IN	O
+omega	NN	O
+3	CD	O
+fish	NN	O
+oil	NN	O
+
+Limiting	VBG	O
+intake	NN	O
+of	IN	B
+dietary	JJ	O
+fat	NN	O
+to	IN	B
+30–35	CD	O
+%	NN	O
+of	IN	B
+total	JJ	O
+calories	NNS	O
+
+Niacin	NNP	O
+

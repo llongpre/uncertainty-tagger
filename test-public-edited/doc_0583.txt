@@ -1,0 +1,16 @@
+Shivneri	NNP	O
+fort	NN	O
+,	,	B
+where	WRB	O
+Shivaji	NNP	O
+was	VBD	B
+born	VBN	O
+,	,	B
+is	VBZ	I
+40	CD	O
+km	NNS	O
+from	IN	O
+Malshej	NNP	O
+ghat	NN	O
+.	.	O
+

@@ -1,0 +1,27 @@
+On	IN	O
+Easter	NNP	O
+Monday	NNP	O
+,	,	O
+1916	CD	O
+,	,	O
+an	DT	O
+insurrection	NN	O
+staged	VBD	O
+in	IN	O
+Ireland	NNP	O
+took	VBD	O
+place	NN	O
+with	IN	O
+the	DT	O
+aims	NNS	O
+of	IN	O
+overthrowing	VBG	O
+British	JJ	O
+rule	NN	O
+and	CC	O
+creating	VBG	O
+an	DT	O
+Irish	NNP	O
+Republic	NNP	O
+.	.	O
+

@@ -1,0 +1,30 @@
+This	DT	O
+letter	NN	O
+is	VBZ	B
+not	RB	I
+used	VBN	O
+in	IN	O
+the	DT	B
+Polish	JJ	O
+alphabet	NN	O
+,	,	B
+along	IN	O
+with	IN	O
+Q	NNP	O
+and	CC	B
+X.	NNP	O
+
+In	IN	O
+loan	NN	O
+words	NNS	O
+the	DT	B
+letter	NN	O
+W	NNP	O
+(	-LRB-	O
+pronounced	VBN	O
+)	-RRB-	O
+is	VBZ	B
+used	VBN	O
+instead	RB	O
+.	.	O
+

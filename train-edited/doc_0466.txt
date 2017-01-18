@@ -1,0 +1,19 @@
+The	DT	O
+boundary	NN	O
+of	IN	O
+the	DT	O
+120-cell	NN	O
+is	VBZ	O
+composed	VBN	O
+of	IN	O
+120	CD	O
+dodecahedral	JJ	O
+cells	NNS	O
+with	IN	O
+4	CD	O
+meeting	NN	O
+at	IN	O
+each	DT	O
+vertex	NN	O
+.	.	O
+

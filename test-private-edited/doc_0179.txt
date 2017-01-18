@@ -1,0 +1,19 @@
+New	NNP	O
+York	NNP	O
+State	NNP	O
+Route	NNP	O
+3	CD	O
+and	CC	B
+New	NNP	O
+York	NNP	O
+State	NNP	O
+Route	NNP	O
+812	CD	O
+intersect	NN	O
+near	IN	O
+the	DT	B
+south	JJ	O
+town	NN	O
+line	NN	O
+.	.	O
+

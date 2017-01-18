@@ -1,0 +1,19 @@
+Standards	NNS	O
+for	IN	O
+SRW	NNP	O
+,	,	O
+SRU	NNP	O
+,	,	O
+and	CC	O
+CQL	NNP	O
+are	VBP	O
+promulgated	VBN	O
+by	IN	O
+the	DT	O
+United	NNP	O
+States	NNP	O
+Library	NNP	O
+of	IN	O
+Congress	NNP	O
+.	.	O
+

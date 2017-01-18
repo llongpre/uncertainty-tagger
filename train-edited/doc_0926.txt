@@ -1,0 +1,26 @@
+The	DT	O
+'	``	O
+Harbin	NNP	O
+Y-12	NNP	O
+'	''	O
+is	VBZ	O
+a	DT	O
+high	JJ	O
+wing	NN	O
+twin	JJ	O
+-	HYPH	O
+engine	NN	O
+turboprop	NN	O
+utility	NN	O
+aircraft	NN	O
+built	VBN	O
+by	IN	O
+Harbin	NNP	O
+Aircraft	NNP	O
+Manufacturing	NNP	O
+Corporation	NNP	O
+(	-LRB-	O
+HAMC	NNP	O
+)	-RRB-	O
+.	.	O
+

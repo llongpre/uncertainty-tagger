@@ -1,0 +1,14 @@
+The	DT	B
+tournament	NN	O
+was	VBD	B
+won	VBN	O
+by	IN	O
+Australia	NNP	O
+who	WP	O
+defeated	VBD	O
+India	NNP	O
+in	IN	O
+the	DT	B
+final	JJ	O
+.	.	O
+

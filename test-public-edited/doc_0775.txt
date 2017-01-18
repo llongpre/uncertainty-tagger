@@ -1,0 +1,23 @@
+In	IN	O
+1868	CD	O
+Cortland	NNP	O
+became	VBD	O
+the	DT	B
+home	NN	O
+of	IN	B
+the	DT	I
+Cortland	NNP	O
+Normal	NNP	O
+School	NNP	O
+,	,	B
+now	RB	O
+the	DT	B
+State	NNP	O
+University	NNP	O
+of	IN	B
+New	NNP	O
+York	NNP	O
+at	IN	O
+Cortland	NNP	O
+.	.	O
+

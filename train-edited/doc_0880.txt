@@ -1,0 +1,68 @@
+'	``	O
+Russian	JJ	O
+culture	NN	O
+'	''	O
+is	VBZ	O
+one	CD	O
+that	WDT	O
+is	VBZ	O
+rich	JJ	O
+and	CC	O
+colorful	JJ	O
+.	.	O
+
+Russians	NNPS	O
+have	VBP	O
+a	DT	O
+rich	JJ	O
+cuisine	NN	O
+.	.	O
+
+Russian	JJ	O
+art	NN	O
+is	VBZ	B
+considered	VBN	I
+by	IN	O
+some	DT	B
+to	TO	O
+be	VB	O
+very	RB	O
+interesting	JJ	O
+and	CC	O
+unique	JJ	O
+.	.	O
+
+Russians	NNPS	O
+are	VBP	B
+also	RB	I
+known	VBN	I
+for	IN	O
+their	PRP$	O
+sense	NN	O
+of	IN	O
+humour	NN	O
+.	.	O
+
+Russian	JJ	O
+literature	NN	O
+was	VBD	O
+greatly	RB	B
+influential	JJ	O
+to	IN	O
+world	NN	O
+literature	NN	O
+.	.	O
+
+Russians	NNPS	O
+also	RB	O
+gave	VBD	O
+the	DT	O
+classical	JJ	O
+music	NN	O
+world	NN	O
+some	DT	B
+very	RB	I
+famous	JJ	I
+composers	NNS	I
+.	.	O
+

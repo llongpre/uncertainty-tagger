@@ -1,0 +1,18 @@
+In	IN	O
+athletics	NNS	O
+,	,	B
+LaGrange	NNP	O
+College	NNP	O
+is	VBZ	B
+a	DT	I
+member	NN	O
+of	IN	B
+NCAA	NNP	O
+Division	NNP	O
+III	NNP	O
+with	IN	O
+15	CD	O
+athletic	JJ	O
+programs	NNS	O
+.	.	O
+

@@ -1,0 +1,22 @@
+On	IN	O
+23	CD	O
+February	NNP	O
+2006	CD	O
+,	,	B
+the	DT	I
+Matt	NNP	O
+cartoon	NN	O
+became	VBD	O
+available	JJ	O
+in	IN	O
+the	DT	B
+'	``	I
+Daily	NNP	O
+Telegraph	NNP	O
+'	POS	B
+podcast	NN	O
+'s	POS	B
+picture	NN	O
+window	NN	O
+.	.	O
+

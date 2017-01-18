@@ -1,0 +1,18 @@
+Bartlett	NNP	O
+has	VBZ	B
+been	VBN	I
+President	NNP	O
+and	CC	B
+Chief	NNP	O
+Executive	NNP	O
+Officer	NNP	O
+of	IN	B
+The	DT	I
+Financial	NNP	O
+Services	NNPS	O
+Roundtable	NNP	O
+since	IN	O
+June	NNP	O
+1999	CD	O
+.	.	O
+

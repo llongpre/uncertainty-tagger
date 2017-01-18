@@ -1,0 +1,15 @@
+Russia	NNP	O
+has	VBZ	O
+an	DT	O
+embassy	NN	O
+in	IN	O
+Kampala	NNP	O
+and	CC	O
+Uganda	NNP	O
+has	VBZ	O
+an	DT	O
+embassy	NN	O
+in	IN	O
+Moscow	NNP	O
+.	.	O
+

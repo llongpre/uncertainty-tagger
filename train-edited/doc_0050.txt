@@ -1,0 +1,16 @@
+Faith	NN	O
+No	RB	O
+More	JJR	O
+played	VBD	O
+their	PRP$	O
+first	JJ	O
+reunion	NN	O
+show	NN	O
+here	RB	O
+on	IN	O
+June	NNP	O
+10	CD	O
+,	,	O
+2009	CD	O
+.	.	O
+

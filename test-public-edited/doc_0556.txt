@@ -1,0 +1,17 @@
+'	``	B
+Gravity	NN	O
+Kills	NNP	O
+'	''	B
+was	VBD	I
+an	DT	O
+American	JJ	B
+industrial	JJ	O
+rock	NN	O
+band	NN	O
+from	IN	O
+Jefferson	NNP	O
+City	NNP	O
+,	,	B
+Missouri	NNP	O
+.	.	O
+

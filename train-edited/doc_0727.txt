@@ -1,0 +1,15 @@
+The	DT	O
+'	``	O
+President	NNP	O
+of	IN	O
+Senegal	NNP	O
+'	''	O
+is	VBZ	O
+the	DT	O
+head	NN	O
+of	IN	O
+state	NN	O
+of	IN	O
+Senegal	NNP	O
+.	.	O
+

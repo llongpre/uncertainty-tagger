@@ -1,0 +1,24 @@
+A	DT	B
+new	JJ	O
+teleprinter	NN	O
+was	VBD	B
+used	VBN	O
+for	IN	O
+communications	NNS	O
+from	IN	O
+the	DT	B
+ground	NN	O
+crew	NN	O
+,	,	B
+freeing	VBG	O
+the	DT	B
+Salyut	NNP	O
+crew	NN	O
+from	IN	O
+constant	JJ	O
+interruptions	NNS	O
+during	IN	O
+their	PRP$	O
+work	NN	B
+.	.	O
+

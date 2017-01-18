@@ -1,0 +1,41 @@
+'	``	B
+Sea	NNP	O
+Produce	NNP	O
+'	POS	B
+
+Seafood	NN	O
+-	HYPH	B
+yellowtail	NN	O
+,	,	B
+amberjack	NN	O
+,	,	B
+horse	NN	O
+mackerel	NN	O
+,	,	B
+saury	NN	O
+,	,	B
+seabream	NN	O
+,	,	B
+bonito	NN	O
+,	,	B
+flying	VBG	O
+fish	NN	O
+,	,	B
+clams	NNS	O
+,	,	B
+topshell	NN	O
+,	,	B
+octopus	NN	O
+,	,	B
+squid	NN	O
+
+Others	NNS	B
+-	:	I
+Owase	NNP	O
+deep	JJ	O
+sea	NN	O
+water	NN	O
+and	CC	B
+sea	NN	O
+salt	NN	O
+

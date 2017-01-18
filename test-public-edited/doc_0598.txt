@@ -1,0 +1,49 @@
+And	CC	O
+the	DT	B
+people	NNS	I
+of	IN	B
+Irinjalakkuda	NNP	O
+celebrate	VBP	O
+pindiperunnal	JJ	O
+very	RB	B
+happily	RB	O
+.	.	O
+
+Also	RB	O
+another	DT	O
+feature	NN	O
+is	VBZ	B
+there	RB	I
+.	.	O
+
+And	CC	O
+all	PDT	B
+the	DT	I
+people	NNS	B
+will	MD	O
+put	VB	O
+up	RP	O
+a	DT	B
+pindi	NN	O
+(	-LRB-	O
+Plantain	NNP	O
+)	-RRB-	O
+with	IN	O
+some	DT	B
+decorations	NNS	O
+in	IN	O
+front	NN	O
+of	IN	B
+their	PRP$	O
+home	NN	O
+.	.	O
+
+Also	RB	O
+some	DT	B
+lighting	NN	O
+arrangements	NNS	O
+will	MD	O
+be	VB	B
+done	VBN	O
+.	.	O
+

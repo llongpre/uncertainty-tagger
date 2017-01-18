@@ -1,0 +1,27 @@
+The	DT	O
+term	NN	O
+'	''	O
+ruling	NN	O
+class	NN	O
+'	''	O
+refers	VBZ	O
+to	IN	O
+the	DT	O
+social	JJ	O
+class	NN	O
+of	IN	O
+a	DT	O
+given	VBN	O
+society	NN	O
+that	WDT	O
+decides	VBZ	O
+upon	IN	O
+and	CC	O
+sets	VBZ	O
+that	DT	O
+society	NN	O
+'s	POS	O
+political	JJ	O
+policy	NN	O
+.	.	O
+

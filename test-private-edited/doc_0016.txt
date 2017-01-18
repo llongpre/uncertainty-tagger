@@ -1,0 +1,21 @@
+They	PRP	B
+are	VBP	I
+numerous	JJ	B
+cases	NNS	I
+of	IN	B
+rapes	NNS	O
+conducted	VBN	O
+on	IN	O
+Jewish	JJ	O
+women	NNS	O
+and	CC	B
+girls	NNS	O
+by	IN	O
+German	JJ	O
+soldiers	NNS	O
+during	IN	O
+Invasion	NNP	O
+of	IN	B
+Poland	NNP	O
+.	.	O
+

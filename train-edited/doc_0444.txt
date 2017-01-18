@@ -1,0 +1,21 @@
+Sound	NN	O
+'s	POS	O
+propagation	NN	O
+speed	NN	O
+depends	VBZ	O
+on	IN	O
+the	DT	O
+type	NN	O
+,	,	O
+temperature	NN	O
+and	CC	O
+pressure	NN	O
+of	IN	O
+the	DT	O
+medium	NN	O
+through	IN	O
+which	WDT	O
+it	PRP	O
+propagates	VBZ	O
+.	.	O
+

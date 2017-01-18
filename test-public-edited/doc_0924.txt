@@ -1,0 +1,24 @@
+In	IN	O
+1896	CD	O
+Agassiz	NNP	O
+visited	VBD	O
+Fiji	NNP	O
+and	CC	B
+Queensland	NNP	O
+and	CC	B
+inspected	VBD	O
+the	DT	B
+Great	NNP	O
+Barrier	NNP	O
+Reef	NNP	O
+,	,	B
+publishing	VBG	O
+a	DT	B
+paper	NN	O
+on	IN	O
+the	DT	B
+subject	NN	O
+in	IN	O
+1898	CD	O
+.	.	O
+

@@ -1,0 +1,65 @@
+An	DT	O
+oil	NN	O
+well	NN	O
+in	IN	O
+Canada	NNP	O
+.	.	O
+
+Canada	NNP	O
+has	VBZ	O
+the	DT	O
+world	NN	O
+'s	POS	O
+second	RB	O
+largest	JJS	O
+proven	VBN	O
+oil	NN	O
+reserves	NNS	O
+.	.	O
+
+Peak	NNP	O
+Graph	NNP	O
+showing	VBG	O
+oil	NN	O
+production	NN	O
+has	VBZ	O
+peaked	VBN	O
+in	IN	O
+non	AFX	O
+-	HYPH	O
+OPEC	NNP	O
+and	CC	O
+non	AFX	O
+-	HYPH	O
+FSU	NN	O
+countries	NNS	O
+
+Countries	NNS	O
+with	IN	O
+largest	JJS	O
+oil	NN	O
+reserves	NNS	O
+
+'	``	O
+Oil	NN	O
+reserves	NNS	O
+'	POS	O
+refer	VB	O
+to	IN	O
+portions	NNS	O
+of	IN	O
+oil	NN	O
+in	IN	O
+place	NN	O
+that	WDT	O
+are	VBP	B
+claimed	VBN	I
+to	TO	O
+be	VB	O
+recoverable	JJ	O
+under	IN	O
+current	JJ	O
+economic	JJ	O
+constraints	NNS	O
+.	.	O
+

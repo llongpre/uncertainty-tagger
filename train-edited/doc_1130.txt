@@ -1,0 +1,36 @@
+'	``	O
+Avisa	NNP	O
+Nordland	NNP	O
+'	''	O
+is	VBZ	O
+a	DT	O
+newspaper	NN	O
+published	VBN	O
+in	IN	O
+Bodo	NNP	O
+,	,	O
+Norway	NNP	O
+.	.	O
+
+It	PRP	O
+was	VBD	O
+established	VBN	O
+through	IN	O
+a	DT	O
+controversial	JJ	O
+merger	NN	O
+of	IN	O
+the	DT	O
+two	CD	O
+competing	VBG	O
+newspapers	NNS	O
+'	POS	O
+Nordlandsposten	NNP	O
+'	''	O
+and	CC	O
+'	''	O
+Nordlands	NNP	O
+Framtid	NNP	O
+'	''	O
+.	.	O
+

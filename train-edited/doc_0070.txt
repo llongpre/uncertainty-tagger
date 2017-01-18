@@ -1,0 +1,22 @@
+Other	JJ	B
+parties	NNS	I
+insist	VB	O
+that	IN	O
+the	DT	O
+detainees	NNS	O
+be	VB	O
+granted	VBN	O
+full	JJ	O
+prisoner	NN	O
+of	IN	O
+war	NN	O
+rights	NNS	O
+and	CC	O
+privileges	NNS	O
+listed	VBN	O
+in	IN	O
+the	DT	O
+Geneva	NNP	O
+Convention	NNP	O
+.	.	O
+

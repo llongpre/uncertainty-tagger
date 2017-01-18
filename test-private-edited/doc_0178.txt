@@ -1,0 +1,19 @@
+The	DT	B
+Electric	NNP	O
+Hellfire	NNP	O
+Club	NNP	O
+,	,	B
+an	DT	O
+industrial	JJ	O
+metal	NN	O
+band	NN	O
+,	,	B
+originated	VBD	O
+in	IN	O
+Kenosha	NNP	O
+in	IN	O
+the	DT	B
+early	JJ	O
+1990s	NNS	O
+.	.	O
+

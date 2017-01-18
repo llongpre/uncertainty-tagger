@@ -1,0 +1,19 @@
+Abraham	NNP	O
+,	,	B
+whose	WP$	O
+unconditional	JJ	O
+promises	NNS	O
+were	VBD	B
+not	RB	I
+fulfilled	VBN	O
+by	IN	O
+Jesus	NNP	O
+according	VBG	O
+to	IN	B
+people	NNS	I
+of	IN	B
+the	DT	I
+Jewish	JJ	O
+tradition	NN	O
+.	.	O
+

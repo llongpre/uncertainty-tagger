@@ -1,0 +1,37 @@
+Vertigo	NNP	O
+is	VBZ	O
+a	DT	O
+specific	JJ	O
+medical	JJ	O
+term	NN	O
+used	VBN	O
+to	TO	O
+describe	VB	O
+the	DT	O
+sensation	NN	O
+of	IN	O
+spinning	VBG	O
+or	CC	O
+having	VBG	O
+the	DT	O
+room	NN	O
+spin	NN	O
+about	IN	O
+you	PRP	O
+.	.	O
+
+Most	JJS	B
+people	NNS	I
+find	VB	O
+vertigo	NNS	O
+very	RB	O
+disturbing	JJ	O
+and	CC	O
+often	RB	B
+report	NN	O
+associated	VBN	O
+nausea	NN	O
+and	CC	O
+vomiting	NN	O
+.	.	O
+

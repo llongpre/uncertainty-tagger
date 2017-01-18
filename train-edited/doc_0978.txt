@@ -1,0 +1,27 @@
+Acquanetta	NNP	O
+succumbed	VBD	O
+to	IN	O
+complications	NNS	O
+of	IN	O
+Alzheimer	NNP	O
+'s	POS	O
+disease	NN	O
+shortly	RB	O
+after	IN	O
+4	CD	O
+a.m.	RB	O
+on	IN	O
+August	NNP	O
+16	CD	O
+,	,	O
+2004	CD	O
+,	,	O
+at	IN	O
+Hawthorn	NNP	O
+Court	NNP	O
+in	IN	O
+Ahwatukee	NNP	O
+,	,	O
+Arizona	NNP	O
+.	.	O
+

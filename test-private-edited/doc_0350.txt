@@ -1,0 +1,25 @@
+It	PRP	B
+is	VBZ	I
+a	DT	B
+testament	NN	O
+to	IN	B
+the	DT	I
+word	NN	O
+usage	NN	O
+of	IN	B
+Sabino	NNP	O
+Arana	NNP	O
+that	IN	O
+the	DT	B
+three	CD	O
+words	NNS	O
+of	IN	B
+the	DT	I
+title	NN	O
+are	VBP	B
+neologisms	NNS	O
+he	PRP	O
+created	VBD	O
+himself	PRP	O
+.	.	O
+

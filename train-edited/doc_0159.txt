@@ -1,0 +1,21 @@
+The	DT	O
+Stratford	NNP	O
+Eagles	NNPS	O
+Composite	NNP	O
+Squadron	NNP	O
+,	,	O
+Civil	NNP	O
+Air	NNP	O
+Patrol	NNP	O
+,	,	O
+is	VBZ	O
+based	VBN	O
+in	IN	O
+Stratford	NNP	O
+,	,	O
+at	IN	O
+the	DT	O
+Sikorsky	NNP	O
+Memorial	NNP	O
+Airport	NNP	O
+

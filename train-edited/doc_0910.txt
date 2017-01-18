@@ -1,0 +1,33 @@
+'	``	O
+Pine	NNP	O
+Grove	NNP	O
+Township	NNP	O
+'	''	O
+is	VBZ	O
+a	DT	O
+township	NN	O
+in	IN	O
+Warren	NNP	O
+County	NNP	O
+,	,	O
+Pennsylvania	NNP	O
+,	,	O
+in	IN	O
+the	DT	O
+United	NNP	O
+States	NNP	O
+.	.	O
+
+As	IN	O
+of	IN	O
+the	DT	O
+2000	CD	O
+census	NN	O
+,	,	O
+the	DT	O
+township	NN	O
+population	NN	O
+was	VBD	O
+2,712	CD	O
+.	.	O
+

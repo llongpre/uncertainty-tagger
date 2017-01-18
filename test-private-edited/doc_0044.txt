@@ -1,0 +1,30 @@
+The	DT	B
+main	JJ	O
+street	NN	O
+of	IN	B
+Wickham	NNP	O
+is	VBZ	B
+named	VBN	O
+after	IN	O
+James	NNP	O
+.	.	O
+
+Hannell	NNP	O
+St	NNP	O
+,	,	B
+runs	VBZ	O
+from	IN	O
+Wickham	NNP	O
+Station	NNP	O
+,	,	B
+to	IN	I
+approximately	RB	O
+,	,	B
+Elizabeth	NNP	O
+St	NNP	O
+,	,	B
+Tighe	NNP	O
+'s	POS	B
+Hill	NNP	O
+.	.	O
+

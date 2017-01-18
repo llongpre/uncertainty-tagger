@@ -1,0 +1,56 @@
+The	DT	B
+people	NNS	I
+of	IN	B
+Phetchaburi	NNP	O
+engage	VBP	O
+in	IN	O
+a	DT	B
+variety	NN	I
+of	IN	B
+recreational	JJ	O
+activities	NNS	O
+.	.	O
+
+Fishing	VBG	O
+in	IN	O
+the	DT	B
+Phetchaburi	NNP	O
+River	NNP	O
+is	VBZ	B
+quite	RB	O
+popular	JJ	B
+.	.	O
+
+Young	JJ	O
+people	NNS	B
+can	MD	I
+be	VB	B
+seen	VBN	I
+playing	VBG	O
+football	NN	O
+as	IN	O
+well	RB	B
+the	DT	I
+traditional	JJ	O
+Thai	NNP	O
+sports	NNS	O
+,	,	B
+sepaktakraw	NN	O
+.	.	O
+
+The	DT	B
+elderly	JJ	O
+can	MD	B
+be	VB	I
+seen	VBN	B
+playing	VBG	O
+Chess	NNP	O
+and	CC	B
+other	JJ	I
+board	NN	O
+games	NNS	O
+by	IN	O
+the	DT	B
+riverside	NN	O
+.	.	O
+

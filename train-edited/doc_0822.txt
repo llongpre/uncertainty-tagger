@@ -1,0 +1,16 @@
+The	DT	O
+residual	JJ	O
+value	NN	O
+derives	VBZ	O
+its	PRP$	O
+calculation	NN	O
+from	IN	O
+a	DT	O
+base	NN	O
+price	NN	O
+,	,	O
+calculated	VBN	O
+after	IN	O
+depreciation	NN	O
+.	.	O
+

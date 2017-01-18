@@ -1,0 +1,14 @@
+He	PRP	O
+amassed	VBD	O
+41	CD	O
+yellow	JJ	O
+cards	NNS	O
+and	CC	O
+four	CD	O
+red	JJ	O
+cards	NNS	O
+for	IN	O
+Real	NNP	O
+Madrid	NNP	O
+.	.	O
+

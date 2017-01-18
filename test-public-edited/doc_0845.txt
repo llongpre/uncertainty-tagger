@@ -1,0 +1,12 @@
+In	IN	O
+1919	CD	O
+,	,	B
+YMCA	NNP	O
+began	VBD	O
+their	PRP$	O
+chain	NN	O
+around	IN	O
+the	DT	B
+country	NN	O
+.	.	O
+

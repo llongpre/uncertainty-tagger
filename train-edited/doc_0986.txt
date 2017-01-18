@@ -1,0 +1,21 @@
+U.S.	NNP	O
+Route	NNP	O
+212	CD	O
+and	CC	O
+Minnesota	NNP	O
+State	NNP	O
+Highways	NNP	O
+5	CD	O
+and	CC	O
+41	CD	O
+are	VBP	O
+three	CD	O
+of	IN	O
+the	DT	O
+main	JJ	O
+routes	NNS	O
+in	IN	O
+the	DT	O
+city	NN	O
+.	.	O
+

@@ -1,0 +1,33 @@
+'	''	O
+Frere	NNP	O
+Jacques	NNP	O
+'	POS	O
+is	VBZ	O
+a	DT	O
+well	RB	B
+-	HYPH	I
+known	VBN	I
+children	NNS	O
+'s	POS	O
+song	NN	O
+.	.	O
+
+It	PRP	O
+can	MD	O
+be	VB	O
+sung	VBN	O
+as	IN	O
+a	DT	O
+simple	JJ	O
+melody	NN	O
+or	CC	O
+as	IN	O
+a	DT	O
+round	NN	O
+with	IN	O
+up	IN	O
+to	TO	O
+four	CD	O
+parts	NNS	O
+.	.	O
+

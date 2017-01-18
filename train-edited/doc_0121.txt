@@ -1,0 +1,37 @@
+On	IN	O
+July	NNP	O
+9	CD	O
+,	,	O
+President	NNP	O
+Michelle	NNP	O
+Bachelet	NNP	O
+of	IN	O
+Chile	NNP	O
+said	VBD	O
+she	PRP	O
+would	MD	O
+nominate	VB	O
+Betancourt	NNP	O
+for	IN	O
+a	DT	O
+Nobel	NNP	O
+Prize	NNP	O
+.	.	O
+
+Sarkozy	NNP	O
+announced	VBD	O
+that	IN	O
+she	PRP	O
+would	MD	O
+receive	VB	O
+the	DT	O
+Legion	NNP	O
+of	IN	O
+Honor	NNP	O
+at	IN	O
+the	DT	O
+Bastille	NNP	O
+Day	NNP	O
+celebrations	NNS	O
+.	.	O
+

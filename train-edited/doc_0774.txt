@@ -1,0 +1,21 @@
+According	VBG	O
+to	IN	O
+some	DT	B
+historians	NNS	I
+of	IN	I
+philosophy	NN	I
+,	,	O
+Zeno	NNP	O
+'s	POS	O
+paradoxes	NNS	O
+were	VBD	O
+a	DT	O
+major	JJ	B
+problem	NN	O
+for	IN	O
+ancient	JJ	O
+and	CC	O
+medieval	JJ	O
+philosophers	NNS	O
+.	.	O
+

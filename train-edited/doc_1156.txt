@@ -1,0 +1,33 @@
+Weber	NNP	O
+received	VBD	O
+the	DT	O
+Thorne	NNP	O
+Music	NNP	O
+Award	NNP	O
+in	IN	O
+1965	CD	O
+.	.	O
+
+He	PRP	O
+authored	VBD	O
+his	PRP$	O
+own	JJ	O
+memoirs	NNS	O
+,	,	O
+'	''	O
+How	WRB	O
+I	PRP	O
+Took	VBD	O
+63	CD	O
+Years	NNS	O
+to	TO	O
+Commit	VB	O
+Suicide	NN	O
+'	''	O
+,	,	O
+the	DT	O
+year	NN	O
+he	PRP	O
+died	VBD	O
+.	.	O
+

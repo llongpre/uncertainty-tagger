@@ -1,0 +1,24 @@
+Look	VB	O
+East	NNP	O
+moved	VBD	O
+to	IN	B
+The	DT	I
+Forum	NNP	O
+on	IN	O
+29	CD	O
+September	NNP	O
+2003	CD	O
+,	,	B
+having	VBG	O
+previously	RB	O
+been	VBN	B
+based	VBN	O
+in	IN	O
+St	NNP	O
+Catherine	NNP	O
+'s	POS	B
+Close	NNP	O
+,	,	B
+Norwich	NNP	O
+.	.	O
+

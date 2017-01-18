@@ -1,0 +1,27 @@
+'	``	O
+SUB	NN	O
+(	-LRB-	O
+Solid	NNP	O
+Unbleached	NNP	O
+Board	NNP	O
+)	-RRB-	O
+'	''	O
+is	VBZ	O
+a	DT	O
+board	NN	O
+made	VBN	O
+from	IN	O
+unbleached	JJ	O
+chemical	NN	O
+pulp	NN	O
+(	-LRB-	O
+yellow	JJ	O
+)	-RRB-	O
+or	CC	O
+recycled	VBN	O
+material	NN	O
+(	-LRB-	O
+grey	NN	O
+)	-RRB-	O
+.	.	O
+

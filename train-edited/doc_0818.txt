@@ -1,0 +1,22 @@
+Ghulam	NNP	O
+Azam	NNP	O
+in	IN	O
+meting	VBG	O
+with	IN	O
+Lt	NNP	O
+.	.	O
+General	NNP	O
+Tikka	NNP	O
+Khan	NNP	O
+and	CC	O
+Nurul	NNP	O
+Amin	NNP	O
+to	TO	O
+form	VB	O
+Peace	NNP	O
+Committe	NNP	O
+(	-LRB-	O
+Razakar	NNP	O
+Party	NNP	O
+)	-RRB-	O
+

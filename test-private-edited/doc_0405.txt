@@ -1,0 +1,17 @@
+Kang	NNP	O
+'s	POS	B
+daughter	NN	O
+,	,	B
+Kang	NNP	O
+Tongbi	NNP	O
+(	-LRB-	O
+ĺş·ĺŚĺŁ	NNP	O
+)	-RRB-	O
+was	VBD	B
+a	DT	I
+student	NN	O
+at	IN	O
+Barnard	NNP	O
+College	NNP	O
+.	.	O
+

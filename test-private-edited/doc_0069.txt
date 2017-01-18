@@ -1,0 +1,9 @@
+The	DT	B
+107	CD	O
+comes	VBZ	O
+in	IN	O
+four	CD	O
+trim	NN	O
+levels	NNS	O
+:	:	O
+

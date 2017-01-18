@@ -1,0 +1,21 @@
+Volvo	NNP	O
+IT	PRP	O
+has	VBZ	B
+around	RB	O
+5000	CD	O
+employees	NNS	O
+and	CC	B
+offices	NNS	O
+in	IN	O
+Göteborg	NNP	O
+,	,	B
+Ghent	NNP	O
+,	,	B
+Lyon	NNP	O
+,	,	B
+Greensboro	NNP	O
+and	CC	B
+Kuala	NNP	O
+Lumpur	NNP	O
+.	.	O
+

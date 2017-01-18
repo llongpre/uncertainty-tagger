@@ -1,0 +1,23 @@
+Highway	NN	O
+224	CD	O
+forms	NNS	O
+Kellogg	NNP	O
+'s	POS	B
+eastern	JJ	O
+boundary	NN	O
+.	.	O
+
+The	DT	B
+North	NNP	O
+Skunk	NNP	O
+River	NNP	O
+runs	VBZ	O
+southeasterly	RB	O
+along	IN	O
+the	DT	B
+town	NN	O
+'s	POS	B
+southern	JJ	O
+edge	NN	O
+.	.	O
+

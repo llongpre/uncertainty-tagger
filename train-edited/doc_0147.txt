@@ -1,0 +1,23 @@
+Indianapolis	NNP	O
+International	NNP	O
+Airport	NNP	O
+is	VBZ	O
+located	VBN	O
+55	CD	O
+miles	NNS	O
+from	IN	O
+Greensburg	NNP	O
+,	,	O
+and	CC	O
+Cincinnati	NNP	O
+Northern	NNP	O
+Kentucky	NNP	O
+International	NNP	O
+Airport	NNP	O
+is	VBZ	O
+located	VBN	O
+70	CD	O
+miles	NNS	O
+away	RB	O
+.	.	O
+

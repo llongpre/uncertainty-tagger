@@ -1,0 +1,25 @@
+Among	IN	O
+some	DT	B
+open	JJ	I
+source	NN	I
+user	NN	I
+exists	VBZ	O
+the	DT	O
+feeling	NN	O
+that	IN	O
+Transgaming	NNP	O
+has	VBZ	O
+been	VBN	O
+"	``	O
+Free	JJ	O
+riding	NN	O
+"	''	O
+on	IN	O
+the	DT	O
+free	JJ	O
+software	NN	O
+movement	NN	O
+with	IN	O
+Cedega	NNP	O
+.	.	O
+

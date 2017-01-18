@@ -1,0 +1,19 @@
+He	PRP	O
+then	RB	O
+explained	VBD	O
+the	DT	O
+cause	NN	O
+of	IN	O
+such	JJ	O
+differences	NNS	O
+in	IN	O
+accordance	NN	O
+with	IN	O
+the	DT	O
+law	NN	O
+of	IN	O
+cause	NN	O
+and	CC	O
+effect	NN	O
+.	.	O
+

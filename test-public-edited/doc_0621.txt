@@ -1,0 +1,25 @@
+He	PRP	O
+married	VBD	O
+in	IN	O
+1883	CD	O
+the	DT	B
+daughter	NN	O
+of	IN	B
+the	DT	I
+Rev.	NNP	O
+J.	NNP	O
+Chalmers	NNP	O
+Blake	NNP	O
+,	,	B
+and	CC	I
+left	VBD	O
+a	DT	B
+family	NN	O
+of	IN	B
+two	CD	O
+sons	NNS	O
+and	CC	B
+three	CD	O
+daughters	NNS	O
+.	.	O
+

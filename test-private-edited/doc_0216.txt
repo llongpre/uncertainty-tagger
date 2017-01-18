@@ -1,0 +1,24 @@
+For	IN	O
+a	DT	B
+limited	JJ	O
+time	NN	O
+in	IN	O
+2004	CD	O
+,	,	B
+General	NNP	O
+Mills	NNPS	O
+offered	VBD	O
+a	DT	B
+DVD	NN	O
+of	IN	B
+two	CD	O
+episodes	NNS	O
+inside	IN	O
+boxes	NNS	O
+of	IN	B
+Total	JJ	O
+and	CC	B
+Oatmeal	NNP	O
+Crisp	NNP	O
+.	.	O
+

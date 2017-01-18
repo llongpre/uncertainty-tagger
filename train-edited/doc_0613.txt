@@ -1,0 +1,11 @@
+The	DT	O
+Quaboag	NNP	O
+River	NNP	O
+runs	VBZ	O
+through	IN	O
+the	DT	O
+center	NN	O
+of	IN	O
+town	NN	O
+.	.	O
+

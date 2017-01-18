@@ -1,0 +1,21 @@
+Rebuffat	NNP	O
+also	RB	O
+was	VBD	O
+second	JJ	O
+unit	NN	O
+director	NN	O
+on	IN	O
+the	DT	O
+Walt	NNP	O
+Disney	NNP	O
+mountain	NN	O
+film	NN	O
+'	''	O
+Third	NNP	O
+Man	NNP	O
+on	IN	O
+the	DT	O
+Mountain	NNP	O
+'	''	O
+.	.	O
+

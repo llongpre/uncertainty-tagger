@@ -1,0 +1,19 @@
+The	DT	B
+Congo	NNP	O
+'s	POS	B
+10	CD	O
+military	JJ	B
+aircraft	NN	O
+,	,	B
+including	VBG	O
+3	CD	O
+helicopters	NNS	O
+,	,	B
+are	VBP	I
+operated	VBN	O
+by	IN	O
+the	DT	B
+Air	NNP	O
+Force	NNP	O
+.	.	O
+

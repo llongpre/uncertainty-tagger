@@ -1,0 +1,66 @@
+Well	RB	O
+-	HYPH	O
+thrown	VBN	O
+breaking	NN	O
+balls	NNS	O
+have	VBP	O
+movement	NN	O
+,	,	O
+usually	RB	O
+sideways	RB	O
+or	CC	O
+downward	RB	O
+.	.	O
+
+The	DT	O
+goal	NN	O
+is	VBZ	O
+usually	RB	O
+to	TO	O
+make	VB	O
+the	DT	O
+ball	NN	O
+difficult	JJ	O
+to	TO	O
+hit	VB	O
+or	CC	O
+confusing	VBG	O
+to	IN	O
+batters	NNS	O
+.	.	O
+
+Most	JJS	O
+breaking	VBG	O
+balls	NNS	O
+are	VBP	B
+considered	VBN	I
+off	IN	O
+-	HYPH	O
+speed	NN	O
+pitches	NNS	O
+.	.	O
+
+The	DT	O
+most	RBS	O
+common	JJ	O
+breaking	VBG	O
+pitches	NNS	O
+are	VBP	O
+:	:	O
+
+Curveball	NNP	O
+
+Knuckle	NNP	O
+curve	NN	O
+
+Slurve	VB	O
+
+Slider	NN	O
+
+Screwball	JJ	O
+
+12	CD	O
+-	SYM	O
+6	CD	O
+curve	NN	O
+

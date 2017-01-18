@@ -1,0 +1,12 @@
+Nike	NNP	O
+SB	NNP	O
+created	VBD	O
+a	DT	O
+shoe	NN	O
+based	VBN	O
+on	IN	O
+the	DT	O
+album	NN	O
+cover	NN	O
+.	.	O
+

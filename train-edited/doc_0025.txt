@@ -1,0 +1,35 @@
+Commander	NNP	O
+Henry	NNP	O
+G.	NNP	O
+Munson	NNP	O
+relieved	JJ	O
+Commander	NNP	O
+Laughon	NNP	O
+as	IN	O
+commanding	VBG	O
+officer	NN	O
+of	IN	O
+'	``	O
+Rasher	NNP	O
+'	''	O
+.	.	O
+
+'	``	O
+Rasher	NN	O
+'s	POS	O
+fifth	JJ	O
+patrol	NN	O
+was	VBD	O
+spent	VBN	O
+largely	RB	O
+with	IN	O
+in	IN	O
+the	DT	O
+South	NNP	O
+China	NNP	O
+Sea	NNP	O
+west	NN	O
+of	IN	O
+Luzon	NNP	O
+.	.	O
+

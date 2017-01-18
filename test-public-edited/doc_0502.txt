@@ -1,0 +1,12 @@
+Shah	NNP	O
+attempted	VBD	O
+to	TO	B
+escape	VB	O
+from	IN	O
+United	NNP	O
+States	NNP	O
+custody	NN	O
+and	CC	B
+failed	VBD	O
+.	.	O
+

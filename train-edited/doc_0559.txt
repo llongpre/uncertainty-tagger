@@ -1,0 +1,8 @@
+After	IN	O
+leaving	VBG	O
+office	NN	O
+Futrell	NNP	O
+practiced	VBD	O
+law	NN	O
+.	.	O
+

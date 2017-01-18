@@ -1,0 +1,54 @@
+There	EX	O
+are	VBP	O
+a	DT	B
+number	NN	I
+of	IN	I
+versions	NNS	I
+of	IN	O
+Cau	NNP	O
+-	HYPH	O
+Cau	NNP	O
+.	.	O
+
+The	DT	O
+other	JJ	O
+common	JJ	O
+version	NN	O
+is	VBZ	O
+the	DT	O
+"	``	O
+Italian	JJ	O
+"	''	O
+style	NN	O
+.	.	O
+
+Some	DT	O
+chefs	NNS	O
+add	VBP	O
+a	DT	O
+few	JJ	O
+tablespoons	NNS	O
+of	IN	O
+wine	NN	O
+or	CC	O
+pisco	NN	O
+following	VBG	O
+the	DT	O
+sautee	NN	O
+step	NN	O
+.	.	O
+
+These	DT	O
+recipes	NNS	O
+may	MD	B
+have	VBP	O
+African	JJ	O
+and	CC	O
+Chinese	JJ	O
+influence	NN	O
+as	RB	O
+well	RB	O
+as	IN	O
+Italian	JJ	O
+.	.	O
+

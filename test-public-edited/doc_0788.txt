@@ -1,0 +1,76 @@
+Critical	JJ	O
+theory	NN	O
+is	VBZ	B
+also	RB	I
+widely	RB	B
+used	VBN	O
+in	IN	O
+peace	NN	O
+and	CC	B
+conflict	NN	O
+studies	NNS	B
+.	.	O
+
+Multilevel	JJ	O
+.	.	O
+
+Peace	NNP	O
+Studies	NNPS	O
+examines	VBZ	O
+intrapersonal	JJ	O
+peace	NN	O
+,	,	B
+peace	NN	O
+between	IN	O
+individuals	NNS	O
+,	,	B
+neighbours	NNS	O
+,	,	B
+ethnic	JJ	O
+groups	NNS	B
+,	,	I
+states	NNS	B
+and	CC	I
+civilisations	NNS	O
+.	.	O
+
+Multicultural	JJ	O
+.	.	O
+
+Gandhi	NNP	O
+is	VBZ	B
+often	RB	I
+cited	VBN	O
+as	IN	O
+a	DT	B
+paradigm	NN	O
+of	IN	B
+Peace	NNP	O
+Studies	NNPS	O
+.	.	O
+
+However	RB	O
+,	,	B
+true	JJ	O
+multiculturalism	NN	O
+remains	VBZ	O
+an	DT	O
+aspiration	NN	O
+as	IN	O
+most	JJS	B
+Peace	NNP	O
+Studies	NNPS	O
+centres	NNS	O
+are	VBP	B
+located	VBN	O
+in	IN	O
+the	DT	B
+West	NNP	O
+.	.	O
+
+Both	DT	O
+analytic	JJ	O
+and	CC	B
+normative	JJ	O
+.	.	O
+

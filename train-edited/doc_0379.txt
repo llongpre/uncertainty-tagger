@@ -1,0 +1,25 @@
+The	DT	O
+movie	NN	O
+was	VBD	O
+adapted	VBN	O
+by	IN	O
+Robert	NNP	O
+Gittler	NNP	O
+from	IN	O
+the	DT	O
+biography	NN	O
+of	IN	O
+Holly	NNP	O
+by	IN	O
+John	NNP	O
+Goldrosen	NNP	O
+.	.	O
+
+It	PRP	O
+was	VBD	O
+directed	VBN	O
+by	IN	O
+Steve	NNP	O
+Rash	NNP	O
+.	.	O
+

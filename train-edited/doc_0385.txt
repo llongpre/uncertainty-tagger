@@ -1,0 +1,19 @@
+Poochie	NNP	O
+reappears	NNS	O
+in	IN	O
+The	DT	O
+Simpsons	NNP	O
+Game	NNP	O
+as	IN	O
+a	DT	O
+boss	NN	O
+on	IN	O
+the	DT	O
+'	``	O
+Grand	NNP	O
+Theft	NNP	O
+Scratchy	NNP	O
+'	''	O
+level	NN	O
+.	.	O
+

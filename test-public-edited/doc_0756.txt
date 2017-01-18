@@ -1,0 +1,27 @@
+Hoover	NNP	O
+provides	VBZ	O
+traffic	NN	O
+,	,	B
+severe	JJ	O
+weather	NN	O
+,	,	B
+disaster	NN	O
+information	NN	O
+,	,	B
+and	CC	I
+details	NNS	O
+on	IN	O
+special	JJ	O
+events	NNS	O
+on	IN	O
+low	JJ	O
+-	HYPH	B
+power	NN	O
+AM	NNP	O
+radio	NN	O
+(	-LRB-	O
+1610	CD	O
+kHz	NN	O
+)	-RRB-	O
+.	.	O
+

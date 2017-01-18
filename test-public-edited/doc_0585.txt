@@ -1,0 +1,10 @@
+Morocco	NNP	O
+won	VBD	O
+the	DT	B
+African	NNP	O
+Nations	NNP	O
+Cup	NNP	O
+in	IN	O
+1976	CD	O
+.	.	O
+

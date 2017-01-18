@@ -1,0 +1,19 @@
+While	IN	O
+also	RB	O
+chair	NN	O
+of	IN	O
+the	DT	O
+Law	NNP	O
+Reform	NNP	O
+Commission	NNP	O
+,	,	O
+she	PRP	O
+taught	VBD	O
+law	NN	O
+at	IN	O
+McGill	NNP	O
+University	NNP	O
+in	IN	O
+Montreal	NNP	O
+.	.	O
+

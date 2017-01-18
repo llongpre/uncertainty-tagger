@@ -1,0 +1,25 @@
+Manne	NNP	O
+is	VBZ	B
+currently	RB	O
+the	DT	B
+Chairman	NNP	O
+of	IN	B
+the	DT	I
+Editorial	NNP	O
+Board	NNP	O
+of	IN	B
+The	NNP	I
+Monthly	NNP	O
+,	,	B
+a	DT	I
+national	JJ	O
+magazine	NN	O
+of	IN	B
+politics	NNS	O
+,	,	B
+society	NN	O
+and	CC	B
+the	DT	I
+arts	NNS	O
+.	.	O
+

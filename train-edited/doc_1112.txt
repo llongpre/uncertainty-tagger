@@ -1,0 +1,10 @@
+Tralee	NNP	O
+has	VBZ	O
+a	DT	O
+town	NN	O
+council	NN	O
+with	IN	O
+twelve	CD	O
+members	NNS	O
+.	.	O
+

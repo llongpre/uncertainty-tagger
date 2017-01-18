@@ -1,0 +1,20 @@
+In	IN	O
+the	DT	B
+'	``	I
+septibranchs	NN	O
+'	''	B
+the	DT	I
+inhalant	NN	O
+siphon	NN	O
+is	VBZ	B
+surrounded	VBN	O
+by	IN	O
+vibration	NN	O
+-	HYPH	B
+sensitive	JJ	O
+tentacles	NNS	O
+for	IN	O
+detecting	VBG	O
+prey	NN	O
+.	.	O
+

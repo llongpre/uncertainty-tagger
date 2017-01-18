@@ -1,0 +1,13 @@
+Versions	NNS	O
+from	IN	O
+FileMaker	NNP	O
+Pro	NNP	O
+5.5	CD	O
+onwards	NNS	O
+also	RB	B
+have	VBP	I
+an	DT	O
+ODBC	NNP	O
+interface	NN	O
+.	.	O
+

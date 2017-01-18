@@ -1,0 +1,11 @@
+The	DT	O
+bowler	NN	O
+does	VBZ	O
+not	RB	O
+get	VB	O
+credit	NN	O
+for	IN	O
+the	DT	O
+wicket	NN	O
+.	.	O
+
